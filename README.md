@@ -1,18 +1,13 @@
 # AndroidStudio-HTTPClient
-``Use `code` in your Markdown file.``
-Required configuration:
-<br>
-In MainActivity.java: 
-<br>
+
+#### Required configuration:
+
+##### In MainActivity.java: 
 Change `http://10.0.2.2:3000/` 
 to your IP-Address, unless your webserver is localhost. <br>
-` this `localhost:3000 -> Android recognize localhost as: 10.0.2.2` `
-<br>
-``Use `code` in your Markdown file.``
-<br>
-
-##### In AndroidManifest.xml
-<br>
+Remember`localhost:3000 -> Android recognize localhost as: 10.0.2.2` <br>
+ID for button needs to be set correctly in: `Button contactServerButton = findViewById(R.id.button1);`<br>
+##### In AndroidManifest.xml<br> 
 add `android:usesCleartextTraffic="true"`to AndroidManifest.xml<br>
 
 
