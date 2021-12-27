@@ -1,5 +1,6 @@
 # AndroidStudio-HTTPClient
 
+A Simple HTTTP Request client, that's requesting a string from a nodejs webserver.<br>
 #### Required configuration:
 
 ##### In MainActivity.java: 
