@@ -1,6 +1,20 @@
 # AndroidStudio-HTTPClient
 
 A Simple HTTTP Request client, that's requesting a string from a nodejs webserver.<br>
+![Tux, the Linux mascot](ScreenshotOfApp.png)
+#### Libraries:<br>
+import android.os.AsyncTask;<br>
+import android.os.Bundle;<br>
+import android.view.View;<br>
+import android.widget.Button;<br>
+import android.widget.TextView;<br>
+import androidx.appcompat.app.AppCompatActivity;<br>
+import java.io.BufferedReader;<br>
+import java.io.IOException;<br>
+import java.io.InputStreamReader;<br>
+import java.net.HttpURLConnection;<br>
+import java.net.URL;<br>
+
 #### Required configuration:
 
 ##### In MainActivity.java: 
