@@ -2,8 +2,8 @@
 20/12/2021 - Android App connected to a Webserver.
 The code is edited by Max & Mansour and guided by // https://suragch.medium.com/minimal-client-server-example-for-android-and-node-js-343780f28c28
 
-Using a Node.js asa webserver.
-Using the android app as client to the server.
+
+Using the android studio and a application-emulator as client to a local Node.js webserver.
  */
 package com.example.clienttonodejs;
 
