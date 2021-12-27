@@ -1,5 +1,5 @@
 # AndroidStudio-HTTPClient
-<br>
+``Use `code` in your Markdown file.``
 Required configuration:
 <br>
 In MainActivity.java: 
