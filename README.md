@@ -8,4 +8,4 @@ File location: [activity_main.xml](https://github.com/KushMax/AndroidStudio-HTTP
 <br>
 <br>
 // <br>
-// Inspired from:https://suragch.medium.com/minimal-client-server-example-for-android-and-node-js-343780f28c28<br>
+// Most of this is adapted from [Android AsyncTask HTTP GET request Tutorial](https://medium.com/@JasonCromer/android-asynctask-http-request-tutorial-6b429d833e28) and [Minimal clien-server example for Android and Node.js](https://suragch.medium.com/minimal-client-server-example-for-android-and-node-js-343780f28c28)<br>
