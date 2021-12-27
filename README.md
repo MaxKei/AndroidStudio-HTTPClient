@@ -6,11 +6,12 @@
 Change `http://10.0.2.2:3000/` 
 to your IP-Address, unless your webserver is localhost. <br>
 Remember`localhost:3000 -> Android recognize localhost as: 10.0.2.2` <br>
-ID for button needs to be set correctly in: `Button contactServerButton = findViewById(R.id.button1);`<br>
+Check/edit ID for button: `Button contactServerButton = findViewById(R.id.button1);`<br>
 ##### In AndroidManifest.xml<br> 
 add `android:usesCleartextTraffic="true"`to AndroidManifest.xml<br>
 
-
+##### In activity_main.xml<br>
+Check/edit ID button: `android:id="@+id/button1"`
 
 File location: [MainActivity.java](https://github.com/KushMax/AndroidStudio-HTTPClient/blob/master/app/src/main/java/com/example/clienttonodejs/MainActivity.java): AndroidStudio-HTTPClient/app/src/main/java/com/example/clienttonodejs/MainActivity.java<br>
 File location: [AndroidManifest.xml](AndroidStudio-HTTPClient/app/src/main/AndroidManifest.xml): AndroidStudio-HTTPClient/app/src/main/AndroidManifest.xml<br>
