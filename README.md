@@ -1,6 +1,8 @@
 # AndroidStudio-HTTPClient
 
 
+[MainActivity location](https://github.com/KushMax/AndroidStudio-HTTPClient/blob/master/app/src/main/java/com/example/clienttonodejs/MainActivity.java): AndroidStudio-HTTPClient/app/src/main/java/com/example/clienttonodejs/MainActivity.java<br>
+[AndroidManifest](AndroidStudio-HTTPClient/app/src/main/AndroidManifest.xml): AndroidStudio-HTTPClient/app/src/main/AndroidManifest.xml<br>
 
 
 <br>
