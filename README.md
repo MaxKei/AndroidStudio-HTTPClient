@@ -1,14 +1,18 @@
 # AndroidStudio-HTTPClient
 <br>
-Required configuration:<br>
-####In MainActivity.java: <br>
-Change ``"http://10.0.2.2:3000/"`` 
+Required configuration:
+<br>
+In MainActivity.java: 
+<br>
+Change `http://10.0.2.2:3000/` 
 to your IP-Address, unless your webserver is localhost. <br>
-``// localhost:3000 -> Android recognize localhost as: 10.0.2.2 ``<br>
+` localhost:3000 -> Android recognize localhost as: 10.0.2.2 `
+<br>
 <br>
 
-####In AndroidManifest.xml<br>
-add ``android:usesCleartextTraffic="true"``to AndroidManifest.xml<br>
+##### In AndroidManifest.xml
+<br>
+add `android:usesCleartextTraffic="true"`to AndroidManifest.xml<br>
 
 
 
