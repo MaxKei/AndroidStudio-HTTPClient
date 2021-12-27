@@ -6,8 +6,9 @@ In MainActivity.java:
 <br>
 Change `http://10.0.2.2:3000/` 
 to your IP-Address, unless your webserver is localhost. <br>
-` localhost:3000 -> Android recognize localhost as: 10.0.2.2 `
+` this `localhost:3000 -> Android recognize localhost as: 10.0.2.2` `
 <br>
+``Use `code` in your Markdown file.``
 <br>
 
 ##### In AndroidManifest.xml
