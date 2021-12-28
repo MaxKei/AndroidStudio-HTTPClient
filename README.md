@@ -23,7 +23,8 @@ to your IP-Address, unless your webserver is localhost. <br>
 Remember`localhost:3000 -> Android recognize localhost as: 10.0.2.2` <br>
 Check/edit ID for button: `Button contactServerButton = findViewById(R.id.button1);`<br>
 ##### In AndroidManifest.xml<br> 
-add `android:usesCleartextTraffic="true"`to AndroidManifest.xml<br>
+add `android:usesCleartextTraffic="true"`<br>
+add `<uses-permission android:name="android.permission.INTERNET" />`<br>
 
 ##### In activity_main.xml<br>
 Check/edit ID button: `android:id="@+id/button1"`
