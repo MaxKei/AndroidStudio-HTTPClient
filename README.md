@@ -29,7 +29,7 @@ add `android:usesCleartextTraffic="true"`to AndroidManifest.xml<br>
 Check/edit ID button: `android:id="@+id/button1"`
 
 File location: [MainActivity.java](https://github.com/KushMax/AndroidStudio-HTTPClient/blob/master/app/src/main/java/com/example/clienttonodejs/MainActivity.java): AndroidStudio-HTTPClient/app/src/main/java/com/example/clienttonodejs/MainActivity.java<br>
-File location: [AndroidManifest.xml](AndroidStudio-HTTPClient/app/src/main/AndroidManifest.xml): AndroidStudio-HTTPClient/app/src/main/AndroidManifest.xml<br>
+File location: [AndroidManifest.xml](https://github.com/KushMax/AndroidStudio-HTTPClient/blob/master/app/src/main/AndroidManifest.xml): AndroidStudio-HTTPClient/app/src/main/AndroidManifest.xml<br>
 File location: [activity_main.xml](https://github.com/KushMax/AndroidStudio-HTTPClient/blob/master/app/src/main/res/layout/activity_main.xml): AndroidStudio-HTTPClient/app/src/main/res/layout/activity_main.xml<br>
 
 <br>
